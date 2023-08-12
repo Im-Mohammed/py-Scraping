@@ -37,7 +37,6 @@ Note
 Ensure that your web scraping activities comply with the website's terms of use and legal regulations.
 Website structures may change over time, requiring adjustments to the code.
 
-Replace `web_scraping_script.py` with the name of your Python script if it's different. This `README.md` format provides a clear overview of the purpose, requirements, usage, and precautions related to the web scraping script.
 ```bash
 import bs4 
 from bs4 import BeautifulSoup as bs
